@@ -3,7 +3,7 @@
 System Design Architecture -:
 ![image](https://github.com/RohanRVC/Book-Generation-Engine/assets/80825254/3113406a-0b57-4d6b-83b2-2fdbfc26fb47)
 
-Input:
+* Input  :
 When the user logs into the application, they can make the following choices:
 
 Genre: The genre of the book they wish to read (e.g., Romance, Mystery, Fantasy, etc.)
@@ -20,7 +20,7 @@ Brief Description: "A boy and a girl fall in love despite coming from rival fami
 Length of Book: Medium
 
 
-Output:
+* Output:
 Initial Summary Generation:
 
 Use abstractive summarization techniques to create a brief yet comprehensive initial summary based on the user-provided brief description.
