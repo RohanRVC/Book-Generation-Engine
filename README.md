@@ -5,7 +5,7 @@ System Design Architecture -:
 
 * Input  :
 When the user logs into the application, they can make the following choices:
-
+ 
 Genre: The genre of the book they wish to read (e.g., Romance, Mystery, Fantasy, etc.)
 Language: The language in which they want the book (e.g., English, Spanish, etc.)
 Title: An optional title they have in mind for the story.
